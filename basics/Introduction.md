@@ -1,6 +1,6 @@
 ## Introduction
 ```python
-testing something
+print("testing something")
 ```
 <code class="python">
 print("testing something")
