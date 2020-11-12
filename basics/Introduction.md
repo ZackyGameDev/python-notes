@@ -21,7 +21,7 @@ if place_meeting(x, y+1, obj_floor) {
     show_debug_message("Floor Below!")
 }
 ```
-```gscript
+```gdscript
 >>> print("hello there")
 hello there
 >>> print(2+2)
