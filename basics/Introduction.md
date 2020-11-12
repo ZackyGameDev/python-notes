@@ -11,22 +11,26 @@ hello there
 >>> print(2+2)
 4
 ```
-```js
+
+```javascript
 var x = () => {
     console.log("hello")
 }
 ```
+
 ```gml
 if place_meeting(x, y+1, obj_floor) {
     show_debug_message("Floor Below!")
 }
 ```
+
 ```gdscript
 >>> print("hello there")
 hello there
 >>> print(2+2)
 4
 ```
+
 ```csharp
 using System; 
   
