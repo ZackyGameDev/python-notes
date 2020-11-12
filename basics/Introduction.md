@@ -3,5 +3,5 @@
 testing something
 ```
 <code class="python">
-  testing something
+print("testing something")
 </code>
